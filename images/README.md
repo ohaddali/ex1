@@ -12,7 +12,7 @@ From : [a-z animals - otter](https://a-z-animals.com/animals/otter/)
 * The coasts of the northern and eastern Pacific Ocean(_Sea otter_).
 * The lakes and rivers of Europe and north Africa(_Eurasian otter_).
 
-![Otter image](/otter.jpg)
+![Otter image](./otter.jpg)
 ### Species
 
 
