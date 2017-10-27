@@ -13,7 +13,16 @@ From : [a-z animals - otter](https://a-z-animals.com/animals/otter/)
 * The lakes and rivers of Europe and north Africa(_Eurasian otter_).
 
 ![Otter image](./otter.jpg)
+
 ### Species
+
+English | Hebrew
+------- | ------
+Aonyx | לוטרת חסרת טופר
+Enhydra lutris(Sea Otter) | לוטרת הים
+Hydrictis maculicollis(Spotted-necked otter) | לוטרה מנוקדת צוואר
+Lontra | לוטרת נהר
+
 
 
 
